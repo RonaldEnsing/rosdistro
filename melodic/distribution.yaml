@@ -3604,7 +3604,7 @@ repositories:
       version: 0.0.2-1
     source:
       type: git
-      url: https://gitlab.tudelft.nl/intelligent-vehicles/ros-prius_description.git
+      url: git@gitlab.tudelft.nl:intelligent-vehicles/ros-prius_description.git
       version: master
     status: developed
   py_trees:
