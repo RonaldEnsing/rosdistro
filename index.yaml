@@ -23,6 +23,6 @@ distributions:
     distribution_cache: http://repositories.ros.org/rosdistro_cache/lunar-cache.yaml.gz
   melodic:
     distribution: [melodic/distribution.yaml]
-    distribution_cache: http://repositories.ros.org/rosdistro_cache/melodic-cache.yaml.gz
+    distribution_cache: http://ivfarm-repo.3me.tudelft.nl/rosdistro_cache/melodic-cache.yaml.gz
 type: index
 version: 3
