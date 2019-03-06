@@ -57,7 +57,7 @@ repositories:
     source:
       test_pull_requests: true
       type: git
-      url: https://gitlab.tudelft.nl/intelligent-vehicles/ros-prius_description.git
+      url: git@gitlab.tudelft.nl:intelligent-vehicles/ros-prius_description.git
       version: 0.0.2
     status: maintained
 type: distribution
