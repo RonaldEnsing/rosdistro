@@ -48,5 +48,11 @@ repositories:
       url: https://github.com/ros/roscpp_core.git
       version: kinetic-devel
     status: maintained
+  prius_description:
+    release:
+      tags:
+        release: release/melodic/{package}/{version}
+      url: https://github.com/RonaldEnsing/prius_description-release.git
+      version: 0.0.2-1
 type: distribution
 version: 2
