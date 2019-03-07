@@ -4237,6 +4237,18 @@ repositories:
       url: https://github.com/PilzDE/prbt_grippers.git
       version: kinetic-devel
     status: developed
+  prius_description:
+    release:
+      tags:
+        release: release/melodic/{package}/{version}
+      url: https://github.com/RonaldEnsing/prius_description-release.git
+      version: 0.0.2-1
+    source:
+      test_pull_requests: true
+      type: git
+      url: git@gitlab.tudelft.nl:intelligent-vehicles/ros-prius_description.git
+      version: 0.0.2
+    status: maintained
   py_trees:
     doc:
       type: git
